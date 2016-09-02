@@ -1,5 +1,3 @@
 package org.me.hotel
 
-class Guest {
-
-}
+case class Guest(name: String)
